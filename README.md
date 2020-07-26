@@ -1,2 +1,3 @@
 # raspberry-pi-planner-project
-Hello World!
+TODO:
+- Add a github pages thingy
